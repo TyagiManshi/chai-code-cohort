@@ -1,7 +1,7 @@
 ## Week 1 - Hello World!
 
 ### Attachments:
-- [Http/Https](,/http-vs-https.pdf)
+- [Http/Https](./http-vs-https.pdf)
 - [Networking Protocols](./networking-protocols.pdf)
 
 ### Article Challenges
