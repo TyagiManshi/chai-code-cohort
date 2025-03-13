@@ -1,6 +1,8 @@
 ## Week 1 - Hello World!
 
-- Attachments: [Click Here](https://github.com/TyagiManshi/chai-code-cohort/edit/main/assignments/week-1/attachments)
+### Attachments:
+- [Http/Https](https://github.com/TyagiManshi/chai-code-cohort/edit/main/assignments/week-1/http-vs-https)
+- [Networking Protocols](https://github.com/TyagiManshi/chai-code-cohort/edit/main/assignments/week-1/networking-protocols)
 
 ### Article Challenges
 - [The Invisible Web](https://thefullstacklens.hashnode.dev/how-internet-works)
