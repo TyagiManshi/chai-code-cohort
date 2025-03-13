@@ -54,7 +54,7 @@
 
 <a href="https://thefullstacklens.hashnode.dev/polyfills-in-javascript">
   <p align="center">
-    <img width="500px" src="./assets/polyfills.png">
+    <img width="500px" src="./assets/polyfills.jpeg">
   </p>
 </a>
 
@@ -62,7 +62,7 @@
 
 <a href="https://thefullstacklens.hashnode.dev/prototypes-and-object-inheritance">
   <p align="center">
-    <img width="500px" src="./assets/object.jpeg">
+    <img width="500px" src="./assets/object.png">
   </p>
 </a>
 
@@ -78,7 +78,7 @@
 
 <a href="https://thefullstacklens.hashnode.dev/understanding-how-dns-works">
   <p align="center">
-    <img width="500px" src="./assets/dns.jpeg">
+    <img width="500px" src="./assets/dns.png">
   </p>
 </a>
 
@@ -94,7 +94,7 @@
 
 <a href="https://thefullstacklens.hashnode.dev/serialization-and-deserialization">
   <p align="center">
-    <img width="500px" src="./assets/serialization.jpeg">
+    <img width="500px" src="./assets/serialization.png">
   </p>
 </a>
 
