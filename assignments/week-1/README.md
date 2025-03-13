@@ -1,8 +1,8 @@
 ## Week 1 - Hello World!
 
 ### Attachments:
-- [Http/Https](https://github.com/TyagiManshi/chai-code-cohort/edit/main/assignments/week-1/http-vs-https.pdf)
-- [Networking Protocols](https://github.com/TyagiManshi/chai-code-cohort/edit/main/assignments/week-1/networking-protocols.pdf)
+- [Http/Https](,/http-vs-https.pdf)
+- [Networking Protocols](./networking-protocols.pdf)
 
 ### Article Challenges
 - [The Invisible Web](https://thefullstacklens.hashnode.dev/how-internet-works)
