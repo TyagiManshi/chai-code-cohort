@@ -2,30 +2,74 @@
   <img src="assets/banner-cohort.jpg" alt="Chai Code Cohort Banner" width="100%">
 </p>
 
+<div align="center">
 
-# Web Dev Cohort Chronicles
+# Web Dev Cohort Chronicles 👩‍💻
+<br>
+</div>
 
-Hello! I'm Manshi, a passionate Full-Stack Web Developer in training and a Web Dev Cohort 1.0 student under **[Hitesh Choudhary](https://www.youtube.com/@chaiaurcode)** & **[Piyush Garg](https://www.youtube.com/@piyushgargdev)**. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/manshi--tyagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+  </a>
+  <a href="https://x.com/CodingMuse_X">
+    <img src="https://img.shields.io/badge/Twitter-DC143C?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" height="40">
+  </a>
+  <a href="https://hashnode.com/@ManshiWrites">
+    <img src="https://img.shields.io/badge/Hashnode-5865F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="40">
+  </a>
+  <a href="https://www.instagram.com/manshity_2225/">
+    <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
+  </a>
+  <a href="discordapp.com/users/@manshi_80799">
+    <img src="https://img.shields.io/badge/Discord-008000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40">
+  </a>
+</p>
 
-This repository keeps track of what I have learned, projects I have built, and challenges I have solved. Covering frontend, backend, cloud deployment, and AI integration, it tracks my progress from the basics to becoming a full-stack ninja. 
+<br>
+
+<div align="center">
+  
+[Introduction](#-introduction) | [Tech Stack](#-tech-stack) | [Progress Track](#-progress-track) | [ Assignments & Challenges](#-assignments--challenges) | [Projects Archive](#-projects-archive) | [Acknowledgements](#-Acknowledgements)
+</div>
+
+
+<br>
+
+# 👩‍💻 Introduction  
+Hello! I'm Manshi, a passionate Full-Stack Web Developer in training and a Web Dev Cohort 1.0 student under **[Hitesh Choudhary](https://www.youtube.com/@chaiaurcode)** & **[Piyush Garg](https://www.youtube.com/@piyushgargdev)**. This repository keeps track of what I have learned, projects I have built, and challenges I have solved. It tracks my progress from the basics to becoming a full-stack ninja. 
+
+
+<br>
+
+# 🛠️ Tech Stack  
+
+- **Frontend Development**  
+HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Next.js, ShadCN
+
+- **Backend Development**  
+Node.js, Express.js, GraphQL 
+
+- **Databases**  
+MongoDB, MySQL, PostgreSQL, Drizzle, Prisma 
+
+- **Cloud & DevOps**  
+AWS (EC2, ECS, CloudFront), Docker, Nginx, GitHub Actions, CI/CD 
+
+- **AI & Machine Learning**  
+Pinecone, Vector Databases, RAG, LangChain  
+
+- **Security & Authentication**  
+JWT, Bcrypt, OAuth
+
+- **Monitoring & Performance**  
+PM2, Winston, Morgan, CloudWatch 
 
 
 
-[Introduction](#-introduction) | [Tech Stack](#-tech-stack) | [Progress Track](#-progress-tracking) | [ Assignments & Challenges](#-assignments--challenges) | [Projects Archive](#-projects-archive) | [Acknowledgements](#-Acknowledgements)
+<br>
 
-## 🛠️ Tech Stack
-
-| **Category**            | **Technologies Used** |
-|-------------------------|----------------------|
-| **Frontend Development**        | HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Next.js, ShadCN |
-| **Backend Development**         | Node.js, Express.js, GraphQL |
-| **Databases**      | MongoDB, MySQL, PostgreSQL, Drizzle, Prisma |
-| **Cloud & DevOps**  | AWS (EC2, ECS, CloudFront), Docker, Nginx, GitHub Actions, CI/CD |
-| **AI & Machine Learning** | Pinecone, Vector Databases, RAG, LangChain |
-| **Security & Authentication**        | JWT, Bcrypt, OAuth |
-| **Monitoring & Performance**      | PM2, Winston, Morgan, CloudWatch |
-
-## 📍 Progress Track 
+# 📍 Progress Track 
 
 - [x]  **Phase 0: Web Warriors**
 Internet, DNS, Server-Client Architecture, Internet Protocols, TCP/IP, UDP, TCP Handshakes and 3-Way Handshakes, HTTP & HTTPS Protocols
@@ -40,38 +84,48 @@ JavaScript Basics, Functions, Arrays and Objects, Asynchronous JavaScript, JavaS
 - 🔜 **Phase 5: Deploy & AI Squad** 
 
 
-## 🎯 Assignments & Challenges 
 
-#### [Blogs Archive](https://github.com/YourUsername/YourBlogsRepo)      
+<br>
 
-#### [Coding Challenges](https://github.com/YourUsername/YourChallengesRepo)  
+# 🎯 Assignments & Challenges 
+
+#### [Blogs Archive](https://github.com/TyagiManshi/chai-code-cohort/tree/main/blogs)    
+
+#### [Coding Challenges](https://github.com/TyagiManshi/chai-code-cohort/tree/main/assignments)  
 
 **View all my blogs here:** [The Full Stack Lens](https://thefullstacklens.hashnode.dev/) 
-<!-- 
-## Projects Archive 💡
 
-### ⚡ Project Name 1  
+
+<br>
+
+<!--
+# ⚡ Projects Archive 
+
+### Project Name 1  
 **Description:** Brief overview of the project and its main functionality.  
 **Tech Stack:** React, Node.js, MongoDB, Express  
-**Live Demo:** [View Here](Live_Demo_Link) | 📝 **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
+**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
 
----
+<br>
 
-### ⚡ Project Name 2  
+### Project Name 2  
 **Description:** Brief overview of the project and its main functionality.  
 **Tech Stack:** Next.js, Tailwind CSS, PostgreSQL  
-**Live Demo:** [View Here](Live_Demo_Link) | 📝 **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
+**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
 
----
+<br>
 
-### ⚡ Project Name 3  
+### Project Name 3  
 **Description:** Brief overview of the project and its main functionality.  
 **Tech Stack:** Python, FastAPI, GraphQL  
-**Live Demo:** [View Here](Live_Demo_Link) | 📝 **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
+**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
 
 -->
 
 
-## 🎖 Acknowledgements
+<br>
+
+# 🎖 Acknowledgements
 
 A huge thank you to **[Hitesh Choudhary Sir](https://www.youtube.com/@chaiaurcode)** & **[Piyush Garg Sir](https://www.youtube.com/@piyushgargdev)** for creating this amazing cohort!
+
