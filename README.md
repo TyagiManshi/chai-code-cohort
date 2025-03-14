@@ -21,7 +21,7 @@
   <a href="https://thefullstacklens.hashnode.dev/">
     <img src="https://img.shields.io/badge/Read-Blog-pink?color=%23C71585" alt="Instagram" height="40">
   </a>
-  <a href="discordapp.com/users/@manshi_80799">
+  <a href="https://discord.com/channels/@manshi_80799">
     <img src="https://img.shields.io/badge/Discord-008000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40">
   </a>
 </p>
