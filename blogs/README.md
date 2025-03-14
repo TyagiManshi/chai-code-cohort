@@ -116,7 +116,5 @@ Follow my journey and explore more blogs at [The Full-Stack Lens](https://theful
   <a href="https://hashnode.com/@ManshiWrites">
     <img src="https://img.shields.io/badge/Hashnode-5865F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="30">
   </a>
-  <a href="https://www.instagram.com/manshity_2225/">
-    <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30">
-</a>
+
 
