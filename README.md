@@ -18,8 +18,8 @@
   <a href="https://hashnode.com/@ManshiWrites">
     <img src="https://img.shields.io/badge/Hashnode-5865F2?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" height="40">
   </a>
-  <a href="https://www.instagram.com/manshity_2225/">
-    <img src="https://img.shields.io/badge/Instagram-FF007F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
+  <a href="https://thefullstacklens.hashnode.dev/">
+    <img src="https://img.shields.io/badge/Read-Blog-pink?color=%23C71585" alt="Instagram" height="40">
   </a>
   <a href="discordapp.com/users/@manshi_80799">
     <img src="https://img.shields.io/badge/Discord-008000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40">
@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[Introduction](#-introduction) | [Tech Stack](#-tech-stack) | [Progress Track](#-progress-track) | [ Assignments & Challenges](#-assignments--challenges) | [Projects Archive](#-projects-archive) | [Acknowledgements](#-Acknowledgements)
+[Introduction](#-introduction) &nbsp; [Tech Stack](#-tech-stack) &nbsp; [Progress Track](#-progress-track) &nbsp; [ Assignments & Challenges](#-assignments--challenges) &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
 </div>
 
 
