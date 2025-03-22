@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[Introduction](#-introduction) &nbsp; [Repository Structure](#-repository-structure) &nbsp; [Tech Stack](-class-notes) &nbsp; [Progress Track](#-progress-track) &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
+[Introduction](#-introduction) &nbsp; [Repository Structure](#-repository-structure) &nbsp; [Tech Stack](#-repository-structure) &nbsp; [Progress Track](#-progress-track) &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
 </div>
 
 
