@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[Introduction](#-introduction) &nbsp; [Repository Structure](#-repository-structure) [Tech Stack](#-introduction) &nbsp; [Progress Track](#-progress-track) &nbsp; &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
+[Introduction](#-introduction) &nbsp; [Repository Structure](#-repository-structure) &nbsp; [Tech Stack](-class-notes) &nbsp; [Progress Track](#-progress-track) &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
 </div>
 
 
@@ -102,19 +102,24 @@ JavaScript Basics, Functions, Arrays and Objects, Asynchronous JavaScript, JavaS
 
 # ⚡ Projects Archive  
 
-<p align="right">
-  <img src="assets/gif.gif" height="80px">
-</p>
+  <img src="assets/gif.gif" align="right" height="300px" width="40%">
 
-  <p align="left">
-    Here, you'll find all the projects I've built as part of the Web Dev Cohort. Each project showcases different skills, frameworks, and concepts I've learned. 
-  </p>
-  
 <h3>
+  <br>
+    <br>
+    <br>
   
   [Explore My Projects Here](https://github.com/TyagiManshi/chai-code-cohort/tree/main/projects)
 </h3>
 
+  <p align="left">
+    Here, you'll find all the projects I've built as part of the Web Dev Cohort.
+    <br>
+    Each project showcases different skills, frameworks, and concepts I've learned. 
+  </p>
+  
+
+<br>
 <br>
 
 # 🎖 Acknowledgements
