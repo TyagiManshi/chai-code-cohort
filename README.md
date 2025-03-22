@@ -30,7 +30,7 @@
 
 <div align="center">
   
-[Introduction](#-introduction) &nbsp; [Tech Stack](#-tech-stack) &nbsp; [Progress Track](#-progress-track) &nbsp; [ Assignments & Challenges](#-assignments--challenges) &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
+[Introduction](#-introduction) &nbsp; [Repository Structure](#-repository-structure) [Tech Stack](#-introduction) &nbsp; [Progress Track](#-progress-track) &nbsp; &nbsp; [Projects Archive](#-projects-archive) &nbsp; [Acknowledgements](#-Acknowledgements)
 </div>
 
 
@@ -39,6 +39,19 @@
 # 👩‍💻 Introduction  
 Hello! I'm Manshi, a passionate Full-Stack Web Developer in training and a Web Dev Cohort 1.0 student under **[Hitesh Choudhary](https://www.youtube.com/@chaiaurcode)** & **[Piyush Garg](https://www.youtube.com/@piyushgargdev)**. This repository keeps track of what I have learned, projects I have built, and challenges I have solved. It tracks my progress from the basics to becoming a full-stack ninja. 
 
+
+<br>
+
+# 📁 Repository Structure
+This repository is neatly organized into weekly progress updates, including:
+
+- **[Assignments & Challenges](https://github.com/TyagiManshi/chai-code-cohort/tree/main/weekly-reports)** – Hands-on tasks and mini-projects to reinforce learning.
+
+- **[Blogs Archive](https://github.com/TyagiManshi/chai-code-cohort/tree/main/blogs)** – My insights and key takeaways from each topic.
+
+- **[Class Notes](https://github.com/TyagiManshi/chai-code-cohort/tree/main/weekly-reports)** – Stored as Eraser links for easy reference.
+
+**Each week's work is stored in its respective folder for structured and easy navigation.**
 
 <br>
 
@@ -87,41 +100,20 @@ JavaScript Basics, Functions, Arrays and Objects, Asynchronous JavaScript, JavaS
 
 <br>
 
-# 🎯 Assignments & Challenges 
+# ⚡ Projects Archive  
 
-#### [Blogs Archive](https://github.com/TyagiManshi/chai-code-cohort/tree/main/blogs)    
+<p align="right">
+  <img src="assets/gif.gif" height="80px">
+</p>
 
-#### [Coding Challenges](https://github.com/TyagiManshi/chai-code-cohort/tree/main/assignments)  
-
-**View all my blogs here:** [The Full Stack Lens](https://thefullstacklens.hashnode.dev/) 
-
-
-<br>
-
-<!--
-# ⚡ Projects Archive 
-
-### Project Name 1  
-**Description:** Brief overview of the project and its main functionality.  
-**Tech Stack:** React, Node.js, MongoDB, Express  
-**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
-
-<br>
-
-### Project Name 2  
-**Description:** Brief overview of the project and its main functionality.  
-**Tech Stack:** Next.js, Tailwind CSS, PostgreSQL  
-**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
-
-<br>
-
-### Project Name 3  
-**Description:** Brief overview of the project and its main functionality.  
-**Tech Stack:** Python, FastAPI, GraphQL  
-**Live Demo:** [View Here](Live_Demo_Link) | **GitHub Repo:** [Source Code](GitHub_Repo_Link)  
-
--->
-
+  <p align="left">
+    Here, you'll find all the projects I've built as part of the Web Dev Cohort. Each project showcases different skills, frameworks, and concepts I've learned. 
+  </p>
+  
+<h3>
+  
+  [Explore My Projects Here](https://github.com/TyagiManshi/chai-code-cohort/tree/main/projects)
+</h3>
 
 <br>
 
