@@ -2,15 +2,13 @@ const http = require('http');
 const fs = require('fs');
 const url = require('url');
 
-
-
 // it takes a callback fn with params - req, res
 // req object has all the meta data of client, request
 // we can log that -> console.log(req) inside the cb fn
 
 const myServer = http.createServer((req, res) => {
     console.log("Request received...");
-    const log = `${Date.now()}, ${req.url} : New Request Recieved\n`;
+    const log = `${Date.now()}, ${req.method} ${req.url} : New Request Recieved\n`;
     const myUrl = url.parse(req.url, true);
 
     // The parseQueryString option is used when working with URLs in Node.js to control how query parameters are handled. 
@@ -33,13 +31,27 @@ const myServer = http.createServer((req, res) => {
             res.end(`Here are your search results: ${search}`);
             break;
 
+            case '/signup' :
+                if(req.method === 'GET') res.end('This is a signup form')
+                else if(req.method === 'GET'){
+                    // DB Query
+                    res.end('Success')
+                }
+            break;
+
             default: res.end(`404 page not found`);
         }
     })
 })
 
 
+// Common HTTP Methods in Node.js:
 
+// GET – Used to retrieve data from the server.
+// POST – Used to send data to the server to create a new resource.
+// PUT – Used to update an existing resource, Example: Updating a user's profile completely.
+// PATCH – Used to modify part of a resource, Example: Changing just the username of a user.
+// DELETE – Used to remove a resource from the server.
 
 myServer.listen(8000, () => {
     console.log("Server started.");
