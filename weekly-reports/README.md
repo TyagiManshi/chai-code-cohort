@@ -44,7 +44,11 @@
   
 - ### [Week 9: Building Full Stack Project](./week-9)
   
-<!-- ### [Week 10: DOM Challenges]()
+- ### [Week 10: Continuing the Project](./week-10)
+  
+- ### [Week 11: Backend & Node Internals](./week-11)
+  
+
 
 
 
