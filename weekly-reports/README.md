@@ -48,6 +48,8 @@
   
 - ### [Week 11: Backend & Node Internals](./week-11)
   
+- ### [Week 12: Building the Mega Project](./week-12)
+  
 
 
 
