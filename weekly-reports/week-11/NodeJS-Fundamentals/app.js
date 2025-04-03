@@ -1,4 +1,5 @@
 // Setting up a basic express application
+
 const express = require('express');     // Import Express module
 const app = express()                   // Call express() to create an Express app 
 
@@ -22,12 +23,16 @@ app.use(function(req, res, next){
 })
 
 app.get('/', function(req, res){
-    res.send('hello world')
+    res.send(`Hello ${req.query.name}`) // Automatic Parsing: Express.js parses query parameters and makes them available in req.query.
 })
 
+// my search query for would be like this - http://localhost:3000/profile?name=manshi
+
 app.get("/profile", function(req, res){
-    res.send("my name is manshi tyagi")
+    res.send(`Hello, I am ${req.query.name}. I am ${req.query.age} years old.`)
 })
+
+// my search query for would be like this - http://localhost:3000/profile?name=manshi&age=20
 
 //Middleware for error handling, always at last 
 app.use(function(err, req, res, next){
