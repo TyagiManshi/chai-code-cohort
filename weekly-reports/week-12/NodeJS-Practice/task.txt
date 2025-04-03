@@ -1,0 +1,36 @@
+We are making a REST API - JSON
+
+
+
+A hybrid server can serve both web browsers and mobile apps using the same API.
+/api/ helps separate API routes from regular web pages.
+
+Example:
+
+https://example.com/home → Loads a web page (HTML, CSS, JS).
+https://example.com/api/users → Loads JSON data for web/mobile apps.
+
+
+
+GET /api/users - list of users
+
+GET /api/users/1 - Get the user with ID 1
+GET /api/users/2 - Get the user with ID 2
+
+POST /api/users - Create new userr
+
+PATCH /api/user/id - Edit the user with id(any)
+GET /api/users:id
+Dynamic Path Parameters 
+:id -> dynamic variable 
+
+
+DELETE /api/user/id - Delete the user with id(any)
+
+
+// We need user data to use it in our REST API.
+// So using -> mockaroo.com
+
+Mockaroo is a tool for generating fake data for testing and development purposes. 
+It allows users to create realistic datasets in various formats, such as CSV, JSON, 
+SQL, and Excel, which can be used for database seeding, testing APIs, or machine learning training.
