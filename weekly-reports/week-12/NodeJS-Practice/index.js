@@ -1,8 +1,11 @@
 const express = require('express');
 const users = require('./MOCK_DATA.json')
+const fs = require('fs')
 const app = express();
 const PORT = 8000;
 
+// Middleware
+app.use(express.urlencoded( { extended: false } ));
 
 // Routes
 
@@ -11,7 +14,7 @@ const PORT = 8000;
 // .map() loops through users and generates <li> elements.
 // .join('') removes commas from the array output.
 
-app.get('/', (req, res) => {
+app.get('/users', (req, res) => {
     const html = `
     <ul>
         ${users.map(user => `<li>${user.first_name}</li>`).join('')}
@@ -34,23 +37,48 @@ app.get('/api/users/:id', (req, res) => {
 })
 
 app.post('/api/users', (req,res) => {
-    // TODO: Create new user
-    return res.json({ status: "pending"})
+
+    // Express provides two objects: 'req' (the incoming request) and 'res' (the outgoing response).
+    // The request body contains the data sent by the client (usually in JSON format).
+    // To access this data, we use 'req.body'.
+
+    const body = req.body;
+    users.push({...body, id: users.length+1})
+    fs.writeFile('./MOCK_DATA.json', JSON.stringify(users), (err, data) => {
+        return res.json({ status: "success", id: users.length})
+    })
 })
 
 app.patch('/api/users/:id', (req,res) => {
     // TODO: Edit the user with id 
-    return res.json({ status: "pending"})
-})
+    const id = Number(req.params.id)
+    fs.readFile('./MOCK_DATA.json', 'utf8', (err, data) => {
 
-app.put('/api/users/:id', (req,res) => {
-    // TODO: Edit the user with id 
-    return res.json({ status: "pending"})
+        let users = JSON.parse(data);     // Parse the existing data into an array of users
+        const user = users.find(user => user.id === id);
+
+        // Update the user with new data from the request body
+        Object.assign(user, req.body);
+
+        fs.writeFile('./MOCK_DATA.json', JSON.stringify(users), (err) => {
+            return res.json({ status: "success", message: "User updated successfully" });
+        });
+    });
 })
 
 app.delete('/api/users/:id', (req,res) => {
     // TODO: Delete the user with id 
-    return res.json({ status: "pending"})
+    const id = Number(req.params.id);
+    
+    const index = users.findIndex(user => user.id === id);
+   
+    // Remove the user from the array
+    users.splice(index, 1);
+        
+    // Write the updated users list back to the file
+    fs.writeFile('./MOCK_DATA.json', JSON.stringify(users), (err) => {
+        return res.json({ status: "success", message: "User deleted successfully" });
+    });
 })
 
 
@@ -63,10 +91,6 @@ app.delete('/api/users/:id', (req,res) => {
 //         const id = Number(req.params.id);
 //         const user = users.find((user) => user.id === id);
 //         return res.json(user);
-//     })
-//     .put((req,res) => {
-//         // TODO: Edit the user with id 
-//         return res.json({ status: "pending"})
 //     })
 //     .patch((req,res) => {
 //         // TODO: Edit the user with id 
