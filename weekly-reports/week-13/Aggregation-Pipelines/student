@@ -1,0 +1,134 @@
+[
+    {
+        "_id": 1,
+        "name": "Amit Sharma",
+        "email": "amit@example.com",
+        "profile": {
+            "age": 25,
+            "country": "India"
+        },
+        "interests": [
+            "MongoDB",
+            "Node.js",
+            "Backend"
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Sara Khan",
+        "email": "sara@example.com",
+        "profile": {
+            "age": 30,
+            "country": "Pakistan"
+        },
+        "interests": [
+            "React",
+            "MongoDB",
+            "Frontend"
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "profile": {
+            "age": 22,
+            "country": "USA"
+        },
+        "interests": []
+    },
+    {
+        "_id": 4,
+        "name": "Priya Mehta",
+        "email": "priya@example.com",
+        "profile": {
+            "age": 28,
+            "country": "India"
+        },
+        "interests": [
+            "Python",
+            "ML",
+            "Data Science"
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Ali Zafar",
+        "email": "ali@example.com",
+        "profile": {
+            "age": 35,
+            "country": "Pakistan"
+        },
+        "interests": [
+            "DevOps",
+            "Cloud",
+            "Linux"
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Meena Patel",
+        "email": "meena@example.com",
+        "profile": {
+            "age": 24,
+            "country": "India"
+        },
+        "interests": [
+            "Frontend",
+            "UI/UX",
+            "Design"
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Carlos Rivera",
+        "email": "carlos@example.com",
+        "profile": {
+            "age": 29,
+            "country": "Mexico"
+        },
+        "interests": [
+            "Java",
+            "Spring Boot"
+        ]
+    },
+    {
+        "_id": 8,
+        "name": "Emily Smith",
+        "email": "emily@example.com",
+        "profile": {
+            "age": 27,
+            "country": "USA"
+        },
+        "interests": [
+            "MongoDB",
+            "Analytics"
+        ]
+    },
+    {
+        "_id": 9,
+        "name": "Yuki Tanaka",
+        "email": "yuki@example.com",
+        "profile": {
+            "age": 31,
+            "country": "Japan"
+        },
+        "interests": [
+            "AI",
+            "Python"
+        ]
+    },
+    {
+        "_id": 10,
+        "name": "Ravi Verma",
+        "email": "ravi@example.com",
+        "profile": {
+            "age": 26,
+            "country": "India"
+        },
+        "interests": [
+            "Node.js",
+            "MongoDB"
+        ]
+    }
+]
