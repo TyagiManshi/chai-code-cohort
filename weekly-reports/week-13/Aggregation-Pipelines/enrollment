@@ -1,0 +1,188 @@
+[
+    {
+        "_id": "e1",
+        "userId": 1,
+        "courseId": 101,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 20,
+            "totalVideos": 20
+        },
+        "reviews": {
+            "rating": 5,
+            "feedback": "Loved the course!"
+        }
+    },
+    {
+        "_id": "e2",
+        "userId": 1,
+        "courseId": 102,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 15,
+            "totalVideos": 30
+        }
+    },
+    {
+        "_id": "e3",
+        "userId": 2,
+        "courseId": 105,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 25,
+            "totalVideos": 25
+        },
+        "reviews": {
+            "rating": 4,
+            "feedback": "Good React insights."
+        }
+    },
+    {
+        "_id": "e4",
+        "userId": 3,
+        "courseId": 103,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 5,
+            "totalVideos": 15
+        }
+    },
+    {
+        "_id": "e5",
+        "userId": 4,
+        "courseId": 106,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 30,
+            "totalVideos": 30
+        },
+        "reviews": {
+            "rating": 5,
+            "feedback": "Very practical!"
+        }
+    },
+    {
+        "_id": "e6",
+        "userId": 5,
+        "courseId": 107,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 10,
+            "totalVideos": 10
+        },
+        "reviews": {
+            "rating": 4,
+            "feedback": "Nice intro to cloud."
+        }
+    },
+    {
+        "_id": "e7",
+        "userId": 6,
+        "courseId": 108,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 12,
+            "totalVideos": 20
+        }
+    },
+    {
+        "_id": "e8",
+        "userId": 7,
+        "courseId": 109,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 18,
+            "totalVideos": 18
+        },
+        "reviews": {
+            "rating": 4,
+            "feedback": "Well structured."
+        }
+    },
+    {
+        "_id": "e9",
+        "userId": 8,
+        "courseId": 110,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 5,
+            "totalVideos": 10
+        }
+    },
+    {
+        "_id": "e10",
+        "userId": 9,
+        "courseId": 104,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 20,
+            "totalVideos": 20
+        },
+        "reviews": {
+            "rating": 5,
+            "feedback": "Easy to follow."
+        }
+    },
+    {
+        "_id": "e11",
+        "userId": 10,
+        "courseId": 101,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 20,
+            "totalVideos": 20
+        },
+        "reviews": {
+            "rating": 5,
+            "feedback": "Best course ever!"
+        }
+    },
+    {
+        "_id": "e12",
+        "userId": 2,
+        "courseId": 110,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 4,
+            "totalVideos": 10
+        }
+    },
+    {
+        "_id": "e13",
+        "userId": 3,
+        "courseId": 104,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 20,
+            "totalVideos": 20
+        },
+        "reviews": {
+            "rating": 4,
+            "feedback": "Good for beginners."
+        }
+    },
+    {
+        "_id": "e14",
+        "userId": 7,
+        "courseId": 102,
+        "status": "in-progress",
+        "progress": {
+            "completedVideos": 10,
+            "totalVideos": 30
+        }
+    },
+    {
+        "_id": "e15",
+        "userId": 8,
+        "courseId": 101,
+        "status": "completed",
+        "progress": {
+            "completedVideos": 20,
+            "totalVideos": 20
+        },
+        "reviews": {
+            "rating": 5,
+            "feedback": "Fantastic!"
+        }
+    }
+]
