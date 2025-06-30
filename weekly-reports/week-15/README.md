@@ -10,8 +10,10 @@
 
 <br>
 
-### *Eraser Link 👇*  
+### *Important Links 👇*  
 - [LeetLab Backend Architecture](https://www.tldraw.com/f/bGoPX7VryK55ZKEcmQ5Di?d=v-1152.-1182.3424.1626.Z7o32-Fuw2PnxUY3ngYU0)
+- [Judge0 Installation](https://organic-citipati-da4.notion.site/Judge0-installation-1dae8b262f2680399590d92a04a90e3d)
+- [Categorized Tasks](https://organic-citipati-da4.notion.site/1d7e8b262f268085bf3cf3bb22ed68f8)
 
 ### *This week was packed with real-world backend learnings — not just theory, but building something impactful from the ground up!*  
 - [Browse My LeetLab Backend Practice Files](https://github.com/TyagiManshi/chai-code-cohort/tree/main/weekly-reports/week-15/leetlab-backend)
