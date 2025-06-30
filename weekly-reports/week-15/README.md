@@ -10,8 +10,11 @@
 
 <br>
 
-## Eraser Link 👇  
+### *Eraser Link 👇*  
 - [LeetLab Backend Architecture](https://www.tldraw.com/f/bGoPX7VryK55ZKEcmQ5Di?d=v-1152.-1182.3424.1626.Z7o32-Fuw2PnxUY3ngYU0)
+
+### *This week was packed with real-world backend learnings — not just theory, but building something impactful from the ground up!*  
+- [Browse My LeetLab Backend Practice Files](https://github.com/TyagiManshi/chai-code-cohort/tree/main/weekly-reports/week-15/leetlab-backend)
 
 <br>
 
@@ -42,5 +45,3 @@
 
 <br>
 
-### *This week was packed with real-world backend learnings — not just theory, but building something impactful from the ground up!*  
-- [Browse My LeetLab Backend Practice Files](https://github.com/TyagiManshi/chai-code-cohort/tree/main/weekly-reports/week-15/leetlab-backend)
