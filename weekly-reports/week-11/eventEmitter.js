@@ -53,3 +53,15 @@ eventEmitter.emit("test");   // listener removed & no error
 
 console.log(eventEmitter.listeners("test"));   // empty array bcz listener removed
 console.log(eventEmitter.listeners("greet"));  
+
+
+
+// Error Handling
+
+eventEmitter.on('error', (err) => {
+    console.log(`Error: ${err.message}`);
+    
+})
+
+eventEmitter.emit('error', new Error('Something went wrong'))
+
