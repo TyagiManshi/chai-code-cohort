@@ -1,0 +1,47 @@
+const express = require('express')
+
+const app = express()
+const PORT = 8000
+
+// In Memory DB bcz i don;t have any db connected right now
+const books = [
+    { id: 1, title: 'Book One', author: 'Author One' },
+    { id: 2, title: 'Book Two', author: 'Author Two' },
+]
+
+app.use(express.json()); // now i can access data through request body
+
+app.get('/books', (req, res) => {
+    res.setHeader('x-xyz', 'manshi tyagi'); // custom header - convention is to start with x
+    res.json(books); 
+})
+
+app.get('/books/:id', (req, res)=>{     // by default id is string here 
+    const id = parseInt(req.params.id);
+
+    if(isNaN(id)) return res.status(400).json({error: 'id must be a number'})
+
+    const book = books.find((e) => e.id === id);  // SELECT * from books where id = {id}
+    if(!book) return res.status(404).json({error: 'book not found'})
+    return res.json(book)
+})
+
+app.post('/books', (req, res)=>{
+
+    const {title, author} = req.body;
+    const book = {id: books.length + 1, title, author}
+    books.push(book)
+
+    return res.status(201).json({message: 'success'})
+})
+
+app.delete('/books/:id', (req, res) => {
+    const id = parseInt(req.params.id)
+    const index = books.find(e => e.id === id)
+    books.slice(index, 1)
+    res.status(200).json('deleted')
+})
+
+app.listen(PORT, ()=>{
+    console.log(`Server listening on ${PORT}`);
+})
